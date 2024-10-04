@@ -1,0 +1,75 @@
+h1 {
+    color: blue;
+}
+h2{
+    color: rgb(8, 8, 14);
+}
+h3{
+    color: aquamarine;
+}
+p{
+    color:aquamarine
+}
+
+p1{
+    color:rgb(165, 20, 170)
+}
+
+    .caja{
+        width: 500px;
+        height: 150px;
+        padding: 65px;
+        margin:  50px;
+        border:  30px solid red;
+    }
+
+    .secundario   {
+        color: rgb(162, 210, 30) (8, 0, 255);
+    }
+
+    .contenedor  {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .item {
+        width: 300%;
+        height: 600px;
+        background-color: rgb(18, 192, 18);
+    }
+
+
+
+
+    .grid-container {
+
+        display: grid;
+        grid-template-columns: auto auto auto;
+        gap: 40px;
+    }
+
+
+    .grid-item{
+        background-color: aqua;
+        padding: 50px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
